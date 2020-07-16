@@ -7,15 +7,13 @@
 <a href="https://www.instagram.com/hajid_alakhtar/?hl=id">
   <img align="left" alt="Hajid AL akhtar | Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
 
 <br />
 <br />
 
 My Name is **Muhammad Hajid Al Akhtar**, I'am an 18 year old **Web Developer** with a focus on Backend Developers
-
+<br />
+[![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hajidalakhtar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,4 +27,4 @@ My Name is **Muhammad Hajid Al Akhtar**, I'am an 18 year old **Web Developer** w
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 
-[![Hajid Al Akhtar](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hajidalakhtar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
