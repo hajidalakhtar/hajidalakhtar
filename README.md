@@ -11,8 +11,7 @@
 <br />
 <br />
 
-My Name is **Muhammad Hajid Al Akhtar**, I'am an 18 year old **Web Developer** with a focus on Backend Developers
-<br />
+
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
