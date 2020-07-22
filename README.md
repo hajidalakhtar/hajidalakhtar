@@ -1,17 +1,10 @@
 
+
 ### Hi there, I'm [Hajid Al Akhtar](https://hajid.tech) 👋
 
-### satu
-
-<a href="https://www.linkedin.com/in/hajidalakhtar/">
-  <img align="left" alt="hajid al akhtar | Linkedin" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-</a>
-<a href="https://www.instagram.com/hajid_alakhtar/?hl=id">
-  <img align="left" alt="Hajid AL akhtar | Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
-</a>
 
 <br />
-<br />
+
 
 
 
