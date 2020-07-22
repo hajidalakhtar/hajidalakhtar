@@ -1,6 +1,5 @@
 
 
-### Hi there, I'm [Hajid Al Akhtar](https://hajid.tech) 👋
 
 
 <br />
@@ -16,11 +15,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"></code>
 <br />
 <br />
-[![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hajidalakhtar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
+[![Hajid al akhtar](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hajidalakhtar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
+### My Web [Hajid Al Akhtar](https://hajid.tech) 👋
