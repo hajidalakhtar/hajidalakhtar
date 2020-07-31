@@ -3,8 +3,8 @@
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
-	- Python ❤️
-	- Golang
+	- Python 
+	- Golang ❤️
 	
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
