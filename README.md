@@ -12,11 +12,11 @@
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
-	- Flask ❤️
-	- Laravel ❤️
-	- PHP ❤️
+	- Flask 
+	- Laravel 
+	- PHP 
 	- Mysql
-	- MonogoDB ❤️
+	- MonogoDB 
   - Express
   - NodeJS  
 - **Shell Scripting**
