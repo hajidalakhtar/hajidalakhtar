@@ -1,1 +1,2 @@
 ### <img src="https://camo.githubusercontent.com/148e7e6c954a413f6058f4b612a40e65b0693cd319f0236399ec479fca959c60/68747470733a2f2f6173736574732e776562736974652d66696c65732e636f6d2f3565353162336230333337333039643637326566643934632f3565353163633539333364333638666562633335313839375f666f6f7465722d696d672e737667"> 
+![Metrics](https://metrics.lecoq.io/hajidalakhtar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&stars.limit=4&config.timezone=Asia%2FJakarta)
